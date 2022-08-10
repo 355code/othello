@@ -7,6 +7,7 @@ board.style.gap = '3px'
 board.style.backgroundColor = 'green'
 board.style.width = 'fit-content'
 board.style.padding = '5px'
+board.style.cursor = 'pointer'
 
 document.body.appendChild(board)
 
